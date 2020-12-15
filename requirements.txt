@@ -1,0 +1,20 @@
+
+tweepy == 3.9.0
+pandas == 0.25.1
+re == 2.2.1
+en_core_web_sm == 2.3.1
+nltk.tokenize ==3.4.5
+nltk.stem == 3.4.5
+nltk.corpus == 3.4.5
+numpy == 1.16.5
+matplotlib == 3.1.1
+seaborn == 0.9.0
+folium == 0.11.0
+branca.element == 0.4.1
+wordcloud == 1.8.1
+sklearn.impute == 0.21.3
+ipywidgets == 7.5.1
+sklearn.feature_extraction.text == 0.21.3
+sklearn.metrics == 0.21.3
+sklearn.cluster == 0.21.3
+
