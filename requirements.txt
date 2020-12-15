@@ -1,9 +1,7 @@
 
 tweepy == 3.9.0
 pandas == 0.25.1
-nltk.tokenize ==3.4.5
-nltk.stem == 3.4.5
-nltk.corpus == 3.4.5
+nltk ==3.4.5
 numpy == 1.16.5
 matplotlib == 3.1.1
 seaborn == 0.9.0
