@@ -1,7 +1,7 @@
 
 tweepy == 3.9.0
 pandas == 0.25.1
-re == 2.2.1
+
 en_core_web_sm == 2.3.1
 nltk.tokenize ==3.4.5
 nltk.stem == 3.4.5
